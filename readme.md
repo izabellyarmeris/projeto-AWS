@@ -4,4 +4,4 @@
 
 ## Link para visualizar o projeto:
 
-[Clique aqui](https://izabellyarmeris.github.io/projeto-AWS/index.hmtl)
+[Clique aqui](https://izabellyarmeris.github.io/projeto-AWS/index.html)
